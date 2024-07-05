@@ -1,0 +1,3 @@
+/Users/bryanhirawan/Documents/Self/C_HttpServer/build/CMakeFiles/main.dir
+/Users/bryanhirawan/Documents/Self/C_HttpServer/build/CMakeFiles/edit_cache.dir
+/Users/bryanhirawan/Documents/Self/C_HttpServer/build/CMakeFiles/rebuild_cache.dir
